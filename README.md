@@ -1,5 +1,5 @@
 # 💫 About Me:
-I have 6 years of working experience in IT organization. I'm working on Azure cloud platform such as: Azure Databricks, Azure Datafactory, PySpark, SQL, Python<br>I'm currently learning AI modules like: Gen AI, Agentic AI
+I have 6 years of working experience in IT organization. I'm working on Azure cloud platform, Programming Languages and Database such as: Azure Databricks, Azure Datafactory, PySpark, SQL, Python<br>I'm currently learning AI modules like: Gen AI, Agentic AI
 
 
 ## 🌐 Socials:
